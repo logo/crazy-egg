@@ -9,9 +9,8 @@
     "index.css"
   ],
   "images": [
-    "images/logo.svg",
-    "images/logo-black.svg",
-    "images/logo-white.svg"
+    "images/logo-monochromatic.svg",
+    "images/logo.svg"
   ],
   "dependencies": {
     "logo/logo": "*"
